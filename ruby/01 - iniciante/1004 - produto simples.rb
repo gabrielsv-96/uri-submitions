@@ -1,3 +1,3 @@
 a = gets.to_i
 b = gets.to_i
-puts "PROD = #{a * b}" 
+puts "PROD = #{a * b}"
